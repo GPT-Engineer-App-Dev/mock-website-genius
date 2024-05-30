@@ -7,7 +7,7 @@ const Index = () => {
       {/* Header */}
       <Box as="header" bg="teal.500" color="white" py={4} mb={8}>
         <Heading as="h1" textAlign="center">
-          My Mock Website
+          My Mock Website ❤️
         </Heading>
       </Box>
 
